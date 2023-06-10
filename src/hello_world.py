@@ -2,8 +2,7 @@
 class HelloWorld:
 
     def show_message(self):
-        print(" Hello World")
-
+        print("Hello World ")
 
 
 if __name__ == "main":
